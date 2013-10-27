@@ -1,4 +1,4 @@
-package in.vagmim.autoloan;
+package in.vagmim.autoloan.api;
 
 import org.junit.runner.RunWith;
 import cucumber.api.junit.Cucumber;

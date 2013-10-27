@@ -1,4 +1,4 @@
-package in.vagmim.autoloan;
+package in.vagmim.autoloan.api;
 
 import java.util.Date;
 import java.util.HashMap;
